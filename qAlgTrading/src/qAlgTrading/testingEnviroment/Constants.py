@@ -1,0 +1,1 @@
+FEATURES = ['Open', 'High', 'Low', 'Volume', 'Close']
